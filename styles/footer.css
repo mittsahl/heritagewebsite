@@ -1,0 +1,9 @@
+footer {
+	height: 65px;
+	width: 100%;
+	position: absolute;
+	bottom: 0px;
+	border-top: 5px solid #17339B;
+	z-index: 10;
+}
+
